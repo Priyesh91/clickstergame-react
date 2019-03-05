@@ -6,11 +6,12 @@ https://priyesh91.github.io/clickstergame-react/
 
 ## Heroku-Deployed Link
 https://clickstergame-react.herokuapp.com/
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
